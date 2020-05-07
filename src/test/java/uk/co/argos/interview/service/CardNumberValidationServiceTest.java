@@ -4,7 +4,7 @@ import org.junit.jupiter.api.BeforeAll;
 
 class CardNumberValidationServiceTest {
 
-    private static final String VALID_CARD_NUMBER = "4242424242424242";
+    private static final String VALID_CARD_NUMBER = "4242424242426742";
 
     private static final String INVALID_CARD_NUMBER = "111111111111111";
 
