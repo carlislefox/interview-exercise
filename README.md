@@ -1,6 +1,6 @@
 # Luhn’s Algorithm
 
-This repository 
+This repository is a template project for performing the stage 2 interview with back-end candidates.
 
 ## Implement
 
